@@ -1,8 +1,8 @@
 # SQL project P2: quality of life
 
 ## Project overview
-Project title:
-Database: 
+- Project title:
+- Database: 
 
 
 ## Objective
