@@ -1,7 +1,7 @@
 # SQL project P2: quality of life
-# intrtrds
+
 ## Project overview
-- Project title:
+- Project title:Quality
 - Database: 
 
 
