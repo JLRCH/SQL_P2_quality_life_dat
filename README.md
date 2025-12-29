@@ -1,7 +1,24 @@
-# Portafolio_JLRCH
-Those are the links of my portafolio and my projects: 
-SQL
-->Child labor stadistics
-->Quality of life Data
+# SQL project P2: quality of life
 
+## Project overview
+Project title:
+Database: 
+
+
+## Objective
+
+
+
+## Project Structure
+### 1.-Data Setup
+
+### 2.-Data Exploration & Cleaning
+
+### 3.-Data Analysis
+
+## Findings
+
+## Reports
+
+## Conclusions
 
